@@ -1,5 +1,5 @@
 # flip
-flip backs photos stored on the [ipernity photo sharing site](http://www.ipernity.com) up to local storage along with metadata suitable for exporting said photos to another photo sharing service. It is used in conjunction with my flop package to mirror my ipernity photos to flickr.
+flip backs photos stored on the [ipernity photo sharing site](http://www.ipernity.com) up to local storage along with metadata suitable for exporting said photos to another photo sharing service. It is used in conjunction with my [flop](https://github.com/benmesander/flop) package to mirror my ipernity photos to flickr.
 
 This program is not currently polished enough to be useful to a general audience; using it requires some programming skills. It is at best a tool for creating your own photo backup solution.
 
