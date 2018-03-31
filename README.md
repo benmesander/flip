@@ -13,7 +13,7 @@ Usage
 =====
 flip is intended to be run periodically; perhaps out of `cron`. It has a couple optional command line arguments, but by default, with no arguments, it incrementally downloads all photos uploaded to ipernity since the last time which it was run.
 
-1. `-startdoc #` Allows you to specify the starting document to download from ipernity (1 is the first document in your accouint). The default if not specified is the first document which has not been downloaded before.
+1. `-startdoc #` Allows you to specify the starting document to download from ipernity (1 is the first document in your account). The default if not specified is the first document which has not been downloaded before.
 2. `-numdocs #` Allows you to specify the number of documents to download. The default is all of the documents which have not been downloaded before.
  
 The first time you run flip, and every time you update your API key, you will need to authorize the API key to your account. flip will display a message:
